@@ -1,0 +1,2 @@
+dit is een php project wat gebruikt kan worden in de localhost om een randomiser te activeren waarbij de namen van de gebruikers gehusseld worden.
+de meeste uitleg van het programma staat op de index.php pagina
